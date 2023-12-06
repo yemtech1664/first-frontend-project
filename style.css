@@ -47,7 +47,7 @@ footer p{font-size: 14px; color: #fff;}
 	header :is(nav, ul){float: none; width: 100%; text-align: left;}
 	nav {display: none;}
 	header ul li{display: block;}
-	header h1{float: none; width: 100%; text-align: left; font-size: 25px; margin-bottom: 30px;}
+	header h1{float: none; width: 100%; text-align: left; font-size: 20px; margin-bottom: 30px;}
 	.showcase{padding: 100px 0;}
 	.menu{display: block; margin-top: -50px;}
 	#checkid:checked ~ nav{display: block;}
